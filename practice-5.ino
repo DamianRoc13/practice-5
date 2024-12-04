@@ -3,8 +3,8 @@
 #include <DHT.h>
 #include <ESP32Servo.h>
 
-const char* ssid = "Dr. Avila";
-const char* password = "AviCam2piso";
+const char* ssid = "Suda";
+const char* password = "";
 
 #define BOT_TOKEN "8176945771:AAGwzA0VlNBIlxVE6Zp2Da_3fZ4jDtwSTkg"
 #define CHAT_ID "1848043793" 
